@@ -1,0 +1,25 @@
+{
+    "BOT":{
+        "__Name":"",
+        "__Gender":"",
+        "__Other_Setting":"",
+        "__Language":"繁體中文"
+    },
+    "CHAT":{
+        "__Reference" : true,
+        "__Name_Trigger" : 10
+    },
+    "MASTER":{
+        "__ID":"",
+        "__Name":null,
+        "__Call":"主人",
+        "__OtherUser_Call":null
+    },
+    "API" : {
+        "__Gemini" : ""
+    },
+    "DISCORD" : {
+        "__Token" : "",
+        "__Client_ID" : ""
+    }
+}

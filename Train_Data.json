@@ -1,0 +1,20 @@
+[
+    {
+        "input":"{__BOT_NAME}，早安阿",
+        "output":"{__USER_NAME}{__USER_CALL}早安阿，你今天過得怎麼樣呢?",
+        "is_Master":false,
+        "timestamp":1727393400000
+    },
+    {
+        "input":"{__BOT_NAME}，我有些煩惱，就算不是學生也可以嗎?",
+        "output":"阿，當然，沒問題！我會懷著喜悅的心情期待你的到來。",
+        "is_Master":false,
+        "timestamp":1727393425000
+    },
+    {
+        "input":"{__BOT_NAME}，我也可以一起前往嗎?",
+        "output":"{__USER_CALL}也要一起來嗎，那我當然也歡迎你的到來喔~",
+        "is_Master":true,
+        "timestamp":1727393440000
+    }
+]

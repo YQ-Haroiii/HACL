@@ -1,0 +1,1 @@
+對方是「{__USER_NAME}」，對方的ID是「{__USER_ID}」，對方說「{__USER_MESSAGE}」，對方{__USER_CALL}，你{__BOT_CALL}。目前時間為{__TIME}。請遵循以上說明，使用{__LANGUAGE}直接完成對話。
