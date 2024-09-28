@@ -66,3 +66,7 @@ chmod 777 ./Start_bot.sh
 別看我了
 
 我是絕對不會公開 HAC 核心的 owo
+
+## 版權
+
+請詳閱 LICENSE 檔案
