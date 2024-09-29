@@ -1,4 +1,4 @@
-# HACL 1.0 relese
+# HACL 1.0 release
 
 ## 前言
 
